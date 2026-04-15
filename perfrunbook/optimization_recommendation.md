@@ -39,7 +39,7 @@ allocating huge-pages.
 2. For additional information on the vector instructions used on Graviton
     1. [Arm instrinsics guide](https://developer.arm.com/architectures/instruction-sets/intrinsics/)
     2. [Graviton2 core software optimization guide](https://developer.arm.com/documentation/pjdoc466751330-9707/2-0)
-    3. [Graviton3 core software optimization guide](https://developer.arm.com/documentation/pjdoc466751330-9685/latest/)
+    3. [Graviton3 core software optimization guide](https://developer.arm.com/documentation/110659)
     4. [Graviton4 core software optimization guide](https://developer.arm.com/documentation/PJDOC-466751330-593177/latest/)
 
 ## Optimizing synchronization heavy optimizations
