@@ -220,7 +220,7 @@ export TORCH_MKLDNN_MATMUL_MIN_DIM=1024
 
 With AWS Graviton DLCs and python wheels available for every official PyTorch release, there may not be a need for customers to build PyTorch from sources. However, to make the user guide complete, this section provides instructions for building the torch wheels from sources.
 
-For more automated single step building of pytorch wheels from a release tag, please use the pyTorch builder repo [scripts](https://github.com/pytorch/builder/blob/main/aarch64_linux/build_aarch64_wheel.py). For building torch wheel alone with the downstream experimental features, please use the below steps.
+For more automated single step building of pytorch wheels from a release tag, please use the pyTorch builder [repo](https://github.com/pytorch/builder). For building torch wheel alone with the downstream experimental features, please use the below steps.
 
 ```
 # This step is required if gcc-10 is not the default version on the OS distribution, e.g. Ubuntu 20.04

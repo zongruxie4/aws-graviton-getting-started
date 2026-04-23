@@ -1,7 +1,7 @@
 # R on Graviton
 **Introduction**
 
-R is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of platforms (including arm64).  _[Read more on the R Project page]([(https://www.r-project.org)])(https://www.r-project.org)_.
+R is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of platforms (including arm64).  _[Read more on the R Project page](https://www.r-project.org)_.
 This page is meant to discuss differences between running R on Graviton versus other platforms, not to give instructions for R in general.
 
 ## 1. Installing R
@@ -65,4 +65,4 @@ and it should complete.
 
 ## 3. Compiled code use
 
-Any R package or program that uses compiled code will probably need to have that code recompiled.  Refer to _[Using compiled code]([(https://cran.r-project.org/web/packages/box/vignettes/compiled-code.html)])(https://cran.r-project.org/web/packages/box/vignettes/compiled-code.html)_ on the R Project site to see examples of what compiled code use may look like.
+Any R package or program that uses compiled code will probably need to have that code recompiled.  Refer to _[Using compiled code](https://cran.r-project.org/web/packages/box/vignettes/compiled-code.html)_ on the R Project site to see examples of what compiled code use may look like.
