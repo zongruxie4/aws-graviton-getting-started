@@ -25,6 +25,7 @@
 * [Third-party Software Vendors](isv.md)
 * [HPC (High Perf Computing)](HPC/README.md)
 * [Build HPC software](HPC/setup-an-ec2-hpc-instance.md)
+* [FFmpeg Builder for AWS Graviton](video-encoding/ffmpeg-build/README.md)
 
 # Machine Learning
 
