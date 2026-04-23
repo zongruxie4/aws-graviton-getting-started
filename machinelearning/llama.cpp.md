@@ -125,7 +125,7 @@ ollama run deepseek-r1:8b "<prompt>" --verbose
 # Additional Resources
 
 Please refer to
-1. [Best-in-class LLM performance on Arm Neoverse V1 based AWS Graviton3 CPUs](https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/best-in-class-llm-performance) to know the LLM inference performance measured on AWS Graviton3 based EC2 Instances.
-2. [Running Llama 3 70B on the AWS Graviton4 CPU with Human Readable Performance](https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/running-llama-3-70b-on-aws-graviton4) for LLM inference performance on AWS Graviton4 based EC2 Instances.
+1. [Best-in-class LLM performance on Arm Neoverse V1 based AWS Graviton3 CPUs](https://developer.arm.com/community/arm-community-blogs/b/servers-and-cloud-computing-blog/posts/best-in-class-llm-performance) to know the LLM inference performance measured on AWS Graviton3 based EC2 Instances.
+2. [Running Llama 3 70B on the AWS Graviton4 CPU with Human Readable Performance](https://developer.arm.com/community/arm-community-blogs/b/servers-and-cloud-computing-blog/posts/running-llama-3-70b-on-aws-graviton4) for LLM inference performance on AWS Graviton4 based EC2 Instances.
 3. [Intro to Llama on Graviton](https://dev.to/aws-heroes/intro-to-llama-on-graviton-1dc) for a step by step guide on how to deploy an LLM model on AWS Graviton-based EC2 Instances. Note: This guide refers to llama.cpp version from July 2024. If you are using the latest llama.cpp version, please replace the `Q4_0_4_8` and `Q4_0_8_8` with `Q4_0` format.
 4. [Run LLMs on CPU with Amazon SageMaker Real-time Inference](https://community.aws/content/2eazHYzSfcY9flCGKsuGjpwqq1B/run-llms-on-cpu-with-amazon-sagemaker-real-time-inference?lang=en) for running LLMs for real-time inference using AWS Graviton3 and Amazon SageMaker.
