@@ -3,7 +3,7 @@
  Name | Version | [LSE Support](optimizing.md#locksynchronization-intensive-workload) | Kernel page size | AMI | Metal support | Comment
 ------ | ------ | ----- | ----- | ----- | ----- | -----
 Amazon Linux 2023 | All versions | Yes | 4KB | [AMIs](amis_cf_sm.md) | Yes | Pointer Authentication enabled on Graviton3
-Amazon Linux 2 | 2.26-35 or later| Yes | 4KB | [AMIs](amis_cf_sm.md) | Yes | End of Life (EOL) scheduled 2025-06-30
+Amazon Linux 2 | 2.26-35 or later| Yes | 4KB | [AMIs](amis_cf_sm.md) | Yes | End of Life (EOL) scheduled 2026-06-30
 Ubuntu Pro | 22.04 LTS | Yes | 4KB | [MarketPlace](https://aws.amazon.com/marketplace/pp/prodview-uy7jg4dds3qjw) | Yes | 
 Ubuntu | 24.04 LTS | Yes | 4KB | [noble](https://cloud-images.ubuntu.com/locator/ec2/) | Yes | 
 Ubuntu | 22.04 LTS | Yes | 4KB | [jammy](https://cloud-images.ubuntu.com/locator/ec2/) | Yes | 
