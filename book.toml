@@ -1,0 +1,6 @@
+[book]
+title = "AWS Graviton Technical Guide"
+src = "."
+
+[output.html]
+site-url = "/graviton/"
